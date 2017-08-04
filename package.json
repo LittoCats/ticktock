@@ -1,6 +1,6 @@
 {
   "name": "tiock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print dot every 1 second.",
   "main": "index.js",
   "scripts": {

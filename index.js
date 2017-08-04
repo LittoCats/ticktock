@@ -8,7 +8,7 @@ module.exports = class TickTock {
   }
 
   get end() {
-    this.UID = this.UID && endTickTock();
+    this.UID = this.UID && endTickTock(this.UID);
     return this;
   }
 }
