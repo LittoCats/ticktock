@@ -3,13 +3,13 @@
 ### Install
 
 ```
-npm install --save ticktock
+npm install --save tiock
 ```
 
 ### Usage
 
 ```
-var TickTock = require('ticktock');
+var TickTock = require('tiock');
 
 var ticktock = new TickTock();
 ticktock.begin
